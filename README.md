@@ -1,11 +1,9 @@
-🎙️ TalkJive
-
-TalkJive is a dynamic media platform designed for podcasts, blogs, live talk shows, and community engagement. It supports creators in sharing voices, culture, and stories with the world.
+🎙️ TalkJive is a dynamic media platform designed for podcasts, blogs, live talk shows, and community engagement. It supports creators in sharing voices, culture, and stories with the world.
 
 🚀 Features
 🎧 Podcast Streaming
 📝 Blog / News Articles
-👥 User Profiles (Optional)
+👥 User Profile (Optional)
 💸 Donations & Creator Support
 🛠️ Admin Panel for Uploads
 🔴 Live or Scheduled Shows
